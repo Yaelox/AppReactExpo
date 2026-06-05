@@ -43,6 +43,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "1853787c-03ec-4110-8162-54eefbc0ae6a"
+      }
+    },
+    "owner": "yaeloetraders"
   }
 }
